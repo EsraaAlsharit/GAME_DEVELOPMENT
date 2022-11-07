@@ -13,4 +13,4 @@ firstNumber is the first variable in our program and now holding the value of: 1
 secondNumber is the second variable in our program and now holding the value of: 5
 ````
 
-![](https://dotnetfiddle.net/KRaI85#&togetherjs=kzM1F0zTvQ)
+[link](https://dotnetfiddle.net/KRaI85)
