@@ -1,0 +1,6 @@
+the x is 7 the first if condition checking if x equal to 5 
+which the condition is false
+ so go to next else if x grater than 5 and less than 10
+here the condition is true so it enter the condition to say
+"I am inside if x is greater than 5 and less than 10 condition, X: value is 7"
+"We just decreased x value by 1 using the -- operator, new x value is: 6"
