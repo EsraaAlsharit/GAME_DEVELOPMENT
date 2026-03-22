@@ -1,7 +1,6 @@
 1. [Programming a Computer (The Recipe)]()
 1. [Variables and Casting]()
 1. [Methods / Functions / Void]()
-1. [Scope]()
 1. [Data Structures]()
 1. [Conditional statements]()
 1. [Loops]()
