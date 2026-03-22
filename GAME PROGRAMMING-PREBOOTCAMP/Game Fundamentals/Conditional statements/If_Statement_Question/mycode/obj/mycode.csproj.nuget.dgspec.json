@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Coding dojo couress\\GAME_DEVELOPMENT\\GAME PROGRAMMING-PREBOOTCAMP\\Game Fundamentals\\Loops\\Loops_Problem_3\\mycode\\mycode.csproj": {}
+    "D:\\Coding dojo couress\\GAME_DEVELOPMENT\\GAME PROGRAMMING-PREBOOTCAMP\\Game Fundamentals\\Conditional statements\\If_Statement_Question\\mycode\\mycode.csproj": {}
   },
   "projects": {
-    "D:\\Coding dojo couress\\GAME_DEVELOPMENT\\GAME PROGRAMMING-PREBOOTCAMP\\Game Fundamentals\\Loops\\Loops_Problem_3\\mycode\\mycode.csproj": {
+    "D:\\Coding dojo couress\\GAME_DEVELOPMENT\\GAME PROGRAMMING-PREBOOTCAMP\\Game Fundamentals\\Conditional statements\\If_Statement_Question\\mycode\\mycode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Coding dojo couress\\GAME_DEVELOPMENT\\GAME PROGRAMMING-PREBOOTCAMP\\Game Fundamentals\\Loops\\Loops_Problem_3\\mycode\\mycode.csproj",
+        "projectUniqueName": "D:\\Coding dojo couress\\GAME_DEVELOPMENT\\GAME PROGRAMMING-PREBOOTCAMP\\Game Fundamentals\\Conditional statements\\If_Statement_Question\\mycode\\mycode.csproj",
         "projectName": "mycode",
-        "projectPath": "D:\\Coding dojo couress\\GAME_DEVELOPMENT\\GAME PROGRAMMING-PREBOOTCAMP\\Game Fundamentals\\Loops\\Loops_Problem_3\\mycode\\mycode.csproj",
+        "projectPath": "D:\\Coding dojo couress\\GAME_DEVELOPMENT\\GAME PROGRAMMING-PREBOOTCAMP\\Game Fundamentals\\Conditional statements\\If_Statement_Question\\mycode\\mycode.csproj",
         "packagesPath": "C:\\Users\\asr27\\.nuget\\packages\\",
-        "outputPath": "D:\\Coding dojo couress\\GAME_DEVELOPMENT\\GAME PROGRAMMING-PREBOOTCAMP\\Game Fundamentals\\Loops\\Loops_Problem_3\\mycode\\obj\\",
+        "outputPath": "D:\\Coding dojo couress\\GAME_DEVELOPMENT\\GAME PROGRAMMING-PREBOOTCAMP\\Game Fundamentals\\Conditional statements\\If_Statement_Question\\mycode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
